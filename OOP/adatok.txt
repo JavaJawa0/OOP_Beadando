@@ -1,0 +1,4 @@
+Tóth Bálint Miksa
+Mérnökinformatikus
+Neptunkód: BG2NRO
+Git hozzáférés: https://github.com/JavaJawa0/OOP_Beadando.git
